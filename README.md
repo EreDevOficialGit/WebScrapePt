@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./banner.PNG" width="100%" alt="WebScrape">
 </div>
+
 # WebScrape — Português do Brasil
 
 Ferramenta Bash para identificar possíveis endereços de e-mail e números de telefone presentes no HTML de uma página web.
